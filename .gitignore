@@ -1,0 +1,31 @@
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PDF files
+*.pdf
+
+# Ignore logs
+*.log
+
+# Ignore dotenv
+.env
+
+# Ignore compiled files
+*.so
+*.dll
+
+# Ignore dataset or large files if needed
+data/
+

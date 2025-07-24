@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What are the five kingdoms?",
+        "true_answer": "Monera, Protista, Fungi, Plantae, and Animalia.",
+        "predicted_answer": "Photosynthesis is the process of photosynthesis.",
+        "score": 0.9922868013381958
+    },
+    {
+        "question": "Define photosynthesis.",
+        "true_answer": "Photosynthesis is the process by which green plants use sunlight to make food from carbon dioxide and water.",
+        "predicted_answer": "Photosynthesis is the process of photosynthesis.",
+        "score": 0.7982600927352905
+    }
+]
