@@ -1,0 +1,300 @@
+{
+  "title": "Classification of Living Beings",
+  "introduction": "Environment is a home for microscopic organisms to giant organisms like blue whale, elephant, banyan, peepal, etc. On the basis of structure of cell, body structure, mode of nutrition, presence or absence of cell wall etc., Robert Harding Whittaker classified these organisms into five kingdoms.",
+  "five_kingdoms": {
+    "overview": "The five kingdom classification system includes: Monera, Protista, Fungi, Plantae, and Animalia.",
+    "kingdoms": [
+      {
+        "name": "Monera",
+        "characteristics": [
+          "Prokaryotic cells",
+          "Unicellular",
+          "No cell wall or cell wall made of peptidoglycan",
+          "Examples: Bacteria"
+        ]
+      },
+      {
+        "name": "Protista",
+        "characteristics": [
+          "Eukaryotic cells",
+          "Mostly unicellular, some multicellular",
+          "Cell wall present in some",
+          "Examples: Euglena, Amoeba"
+        ]
+      },
+      {
+        "name": "Fungi",
+        "characteristics": [
+          "Eukaryotic cells",
+          "Multicellular (except yeast)",
+          "Cell wall made of chitin",
+          "Saprotrophic nutrition",
+          "Examples: Mushroom, Yeast"
+        ]
+      },
+      {
+        "name": "Plantae",
+        "characteristics": [
+          "Eukaryotic cells",
+          "Multicellular",
+          "Cell wall made of cellulose",
+          "Autotrophic (photosynthesis)",
+          "Examples: Fern, Moss, Flowering plants"
+        ],
+        "divisions": {
+          "algae": {
+            "characteristics": [
+              "Thallus body (no differentiation of root, stem, leaves)",
+              "Unicellular or multicellular",
+              "Autotrophic",
+              "Store food as starch",
+              "Reproduce sexually and asexually",
+              "Examples: Spirogyra, Volvox, Chlamydomonas"
+            ]
+          },
+          "bryophyta": {
+            "characteristics": [
+              "More developed than algae",
+              "Plant body thallus or differentiated into rhizoid, stem, simple leaves",
+              "Found in moist, shady places",
+              "Need water for fertilization (amphibian plants)",
+              "Examples: Moss, Marchantia"
+            ]
+          },
+          "tracheophyta": {
+            "characteristics": [
+              "Differentiated into root, stem, leaves",
+              "Have vascular tissue (xylem and phloem)",
+              "Subdivisions: Pteridophyta, Gymnosperms, Angiosperms"
+            ],
+            "pteridophyta": {
+              "characteristics": [
+                "Non-flowering",
+                "Feather-like leaves",
+                "Stem as rhizome",
+                "Reproduce via spores",
+                "Examples: Fern, Clubmoss"
+              ]
+            },
+            "gymnosperms": {
+              "characteristics": [
+                "Bear cones instead of flowers",
+                "Naked seeds (no fruits)",
+                "Needle-like leaves",
+                "Examples: Pine, Cycas"
+              ]
+            },
+            "angiosperms": {
+              "characteristics": [
+                "Flowering plants",
+                "Seeds enclosed in fruits",
+                "Two classes: Monocotyledons and Dicotyledons"
+              ],
+              "monocotyledons": {
+                "characteristics": [
+                  "Single cotyledon",
+                  "Parallel leaf venation",
+                  "Fibrous roots",
+                  "Examples: Maize, Wheat"
+                ]
+              },
+              "dicotyledons": {
+                "characteristics": [
+                  "Two cotyledons",
+                  "Reticulate leaf venation",
+                  "Taproot system",
+                  "Examples: Pea, Mustard"
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Animalia",
+        "characteristics": [
+          "Eukaryotic cells",
+          "Multicellular",
+          "No cell wall",
+          "Heterotrophic",
+          "Examples: Insects, Fish, Mammals"
+        ],
+        "phyla": [
+          {
+            "name": "Porifera",
+            "characteristics": [
+              "Pores in body (osculum and ostia)",
+              "No true tissues",
+              "Examples: Sponges"
+            ]
+          },
+          {
+            "name": "Coelenterata",
+            "characteristics": [
+              "Tentacles with stinging cells",
+              "Hollow body cavity (coelenteron)",
+              "Examples: Jellyfish, Hydra"
+            ]
+          },
+          {
+            "name": "Platyhelminthes",
+            "characteristics": [
+              "Flat, leaf-like body",
+              "Mostly parasitic",
+              "Examples: Tapeworm"
+            ]
+          },
+          {
+            "name": "Nemathelminthes",
+            "characteristics": [
+              "Cylindrical, unsegmented body",
+              "Many parasitic",
+              "Examples: Roundworm"
+            ]
+          },
+          {
+            "name": "Annelida",
+            "characteristics": [
+              "Segmented body",
+              "Examples: Earthworm"
+            ]
+          },
+          {
+            "name": "Arthropoda",
+            "characteristics": [
+              "Jointed appendages",
+              "Exoskeleton of chitin",
+              "Examples: Insects, Spiders"
+            ]
+          },
+          {
+            "name": "Mollusca",
+            "characteristics": [
+              "Soft body, often with shell",
+              "Muscular foot",
+              "Examples: Snail, Octopus"
+            ]
+          },
+          {
+            "name": "Echinodermata",
+            "characteristics": [
+              "Spiny skin",
+              "Water vascular system",
+              "Examples: Starfish"
+            ]
+          },
+          {
+            "name": "Chordata",
+            "characteristics": [
+              "Notochord present at some stage",
+              "Subphylum Vertebrata has backbone",
+              "Classes: Pisces, Amphibia, Reptilia, Aves, Mammalia"
+            ],
+            "vertebrate_classes": [
+              {
+                "name": "Pisces",
+                "characteristics": [
+                  "Gills for respiration",
+                  "Two-chambered heart",
+                  "Examples: Fish, Shark"
+                ]
+              },
+              {
+                "name": "Amphibia",
+                "characteristics": [
+                  "Moist skin",
+                  "Three-chambered heart",
+                  "Examples: Frog, Salamander"
+                ]
+              },
+              {
+                "name": "Reptilia",
+                "characteristics": [
+                  "Dry, scaly skin",
+                  "Three-chambered heart (except crocodile)",
+                  "Examples: Snake, Turtle"
+                ]
+              },
+              {
+                "name": "Aves",
+                "characteristics": [
+                  "Feathers",
+                  "Four-chambered heart",
+                  "Examples: Birds"
+                ]
+              },
+              {
+                "name": "Mammalia",
+                "characteristics": [
+                  "Hair/fur",
+                  "Mammary glands",
+                  "Four-chambered heart",
+                  "Examples: Humans, Whales"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "comparisons": [
+    {
+      "items": ["Bacteria", "Euglena"],
+      "differences": [
+        "Bacteria: Prokaryotic, no nucleus | Euglena: Eukaryotic, has nucleus",
+        "Bacteria: No chloroplasts | Euglena: Has chloroplasts (can photosynthesize)"
+      ]
+    },
+    {
+      "items": ["Mushroom", "Fern"],
+      "similarities": ["Both eukaryotic", "Both have cell walls"],
+      "differences": [
+        "Mushroom: Heterotrophic (saprotrophic) | Fern: Autotrophic",
+        "Mushroom: No chlorophyll | Fern: Has chlorophyll"
+      ]
+    },
+    {
+      "items": ["Fish", "Whale"],
+      "differences": [
+        "Fish: Gills, two-chambered heart | Whale: Lungs, four-chambered heart",
+        "Fish: Scales | Whale: Hair/fur",
+        "Fish: Cold-blooded | Whale: Warm-blooded"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "name": "Observing algae",
+      "steps": [
+        "Collect water with algae from pond",
+        "Prepare microscope slide",
+        "Observe under microscope",
+        "Draw and identify characteristics"
+      ]
+    },
+    {
+      "name": "Classifying plants",
+      "steps": [
+        "Collect plants from locality",
+        "Compare roots, stems, leaves",
+        "Classify based on characteristics",
+        "Prepare classification chart"
+      ]
+    }
+  ],
+  "review_questions": [
+    {
+      "question": "According to five kingdom classification, which kingdom do bacteria belong to?",
+      "answer": "Monera"
+    },
+    {
+      "question": "What are the main differences between gymnosperms and angiosperms?",
+      "answer": "Gymnosperms have naked seeds in cones, while angiosperms have seeds enclosed in fruits and produce flowers."
+    },
+    {
+      "question": "Why are ferns placed in the plant kingdom while frogs are in the animal kingdom?",
+      "answer": "Ferns are autotrophic with cell walls (plant characteristics), while frogs are heterotrophic without cell walls (animal characteristics)."
+    }
+  ]
+}

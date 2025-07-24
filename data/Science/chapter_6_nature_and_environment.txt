@@ -1,0 +1,216 @@
+{
+  "title": "Nature and Environment",
+  "climate_change": {
+    "definition": "Long-term alteration of temperature and typical weather patterns in a place",
+    "causes": {
+      "natural": [
+        {
+          "cause": "Solar activities",
+          "description": "Variations in solar radiation intensity due to changes in thermonuclear fusion reactions"
+        },
+        {
+          "cause": "Earth's reflectivity changes",
+          "description": "Changes in surface albedo affecting solar radiation absorption"
+        },
+        {
+          "cause": "Volcanic eruptions",
+          "description": "Emission of gases and aerosols that block solar radiation"
+        }
+      ],
+      "human_induced": [
+        {
+          "cause": "Greenhouse gas emissions",
+          "description": "From burning fossil fuels for energy and transportation"
+        },
+        {
+          "cause": "Industrialization",
+          "description": "Fossil fuel combustion in manufacturing processes"
+        },
+        {
+          "cause": "Deforestation",
+          "description": "Reduction in CO2 absorption capacity"
+        },
+        {
+          "cause": "Fossil fuel combustion",
+          "description": "In vehicles releasing CO2 and other greenhouse gases"
+        }
+      ]
+    },
+    "effects": [
+      {
+        "effect": "Droughts and floods",
+        "description": "Altered rainfall patterns causing water extremes"
+      },
+      {
+        "effect": "Rising sea levels",
+        "description": "From thermal expansion and glacial melt"
+      },
+      {
+        "effect": "Biodiversity loss",
+        "description": "Species unable to adapt to rapid changes"
+      },
+      {
+        "effect": "Human health impacts",
+        "description": "Increased diseases and malnutrition"
+      },
+      {
+        "effect": "Weather pattern changes",
+        "description": "Unpredictable seasonal variations"
+      }
+    ],
+    "mitigation_measures": [
+      "Reduce carbon emissions through renewable energy",
+      "Enhance carbon storage via afforestation",
+      "Public awareness campaigns",
+      "Government policies and regulations",
+      "Energy efficiency improvements"
+    ],
+    "nepal_impact": {
+      "temperature_rise": "0.06°C per year",
+      "water_source_decline": "Drying rivers and lakes",
+      "glacial_retreat": "Melting Himalayan glaciers",
+      "flood_risk": "Glacial lake outburst threats"
+    }
+  },
+  "biodiversity": {
+    "endangered_species": {
+      "animals": [
+        {
+          "name": "Red Panda",
+          "status": "Endangered",
+          "conservation": "Habitat protection"
+        },
+        {
+          "name": "Bengal Tiger",
+          "status": "Endangered",
+          "conservation": "Anti-poaching measures"
+        },
+        {
+          "name": "One-horned Rhinoceros",
+          "status": "Vulnerable",
+          "conservation": "Protected areas"
+        }
+      ],
+      "plants": [
+        {
+          "name": "Jatamasi",
+          "status": "Threatened",
+          "conservation": "Sustainable harvesting"
+        },
+        {
+          "name": "Sarpagandha",
+          "status": "Endangered",
+          "conservation": "Cultivation programs"
+        }
+      ],
+      "conservation_measures": [
+        "Habitat protection",
+        "Anti-poaching laws",
+        "Ex-situ conservation (zoos, botanical gardens)",
+        "Public awareness programs",
+        "Sustainable use policies"
+      ]
+    },
+    "threats": [
+      "Climate change impacts",
+      "Habitat destruction",
+      "Overexploitation",
+      "Pollution",
+      "Invasive species"
+    ]
+  },
+  "medicinal_plants": {
+    "common_species": [
+      {
+        "name": "Holy Basil (Tulsi)",
+        "scientific_name": "Ocimum tenuiflorum",
+        "uses": [
+          "Respiratory ailments",
+          "Antimicrobial agent",
+          "Digestive aid"
+        ],
+        "properties": [
+          "Antioxidant",
+          "Immunomodulatory"
+        ]
+      },
+      {
+        "name": "Neem",
+        "scientific_name": "Azadirachta indica",
+        "uses": [
+          "Skin diseases",
+          "Blood purifier",
+          "Pesticide"
+        ],
+        "properties": [
+          "Antimicrobial",
+          "Anti-inflammatory"
+        ]
+      },
+      {
+        "name": "Yarsagumba",
+        "scientific_name": "Cordyceps sinensis",
+        "uses": [
+          "Energy booster",
+          "Immunity enhancer"
+        ],
+        "status": "Protected species"
+      }
+    ],
+    "conservation": [
+      "Sustainable harvesting",
+      "Cultivation programs",
+      "Traditional knowledge preservation",
+      "Research on medicinal properties",
+      "Commercial cultivation incentives"
+    ],
+    "economic_potential": [
+      "Ayurvedic medicine industry",
+      "Cosmetics production",
+      "Export opportunities",
+      "Eco-tourism"
+    ]
+  },
+  "educational_activities": [
+    {
+      "type": "Field study",
+      "description": "Observe local environmental changes"
+    },
+    {
+      "type": "Research project",
+      "description": "Document endangered species in local area"
+    },
+    {
+      "type": "Herbarium creation",
+      "description": "Collect and preserve medicinal plant samples"
+    },
+    {
+      "type": "Awareness campaign",
+      "description": "Design posters about climate change impacts"
+    }
+  ],
+  "assessment": {
+    "multiple_choice": [
+      {
+        "question": "What is the main cause of rising sea levels?",
+        "options": [
+          "Heavy rainfall",
+          "Low rainfall",
+          "Global warming",
+          "Deforestation"
+        ],
+        "answer": 2
+      }
+    ],
+    "short_answer": [
+      {
+        "question": "Explain two conservation measures for endangered plants"
+      }
+    ],
+    "practical": [
+      {
+        "task": "Create a medicinal plant handbook"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "title": "Honey Bee Study",
+  "introduction": "Honey bees are social insects belonging to the phylum Arthropoda that live in organized colonies with division of labor. They are important pollinators and honey producers.",
+  "bee_biology": {
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Apidae",
+      "genus": "Apis"
+    },
+    "physical_characteristics": {
+      "size": "2-20 mm in length",
+      "body_parts": {
+        "head": ["Compound eyes", "Antennae", "Mouthparts"],
+        "thorax": ["3 pairs of legs", "2 pairs of wings"],
+        "abdomen": ["6-10 segments", "Stinger (in females)"]
+      }
+    },
+    "types_of_bees": [
+      {
+        "type": "Queen bee",
+        "characteristics": [
+          "Largest in size",
+          "Only one per hive",
+          "Lives 2-5 years",
+          "Lays up to 2,000 eggs/day",
+          "Produces pheromones",
+          "Develops from fertilized egg fed royal jelly"
+        ],
+        "functions": ["Egg laying", "Colony regulation"]
+      },
+      {
+        "type": "Worker bee",
+        "characteristics": [
+          "Smallest in size",
+          "Female but sterile",
+          "20,000-80,000 per hive",
+          "Lives 6 weeks to 6 months",
+          "Develops from fertilized egg"
+        ],
+        "functions": [
+          "Collect nectar/pollen",
+          "Build/maintain hive",
+          "Feed larvae",
+          "Protect hive",
+          "Produce honey"
+        ],
+        "age_based_roles": {
+          "1-3 days": "Clean hive",
+          "3-16 days": "Feed larvae",
+          "16-20 days": "Produce wax",
+          "20+ days": "Forage outside"
+        }
+      },
+      {
+        "type": "Drone bee",
+        "characteristics": [
+          "Medium size",
+          "Male bees",
+          "Haploid (16 chromosomes)",
+          "No stinger",
+          "Develop from unfertilized eggs",
+          "Die after mating"
+        ],
+        "functions": ["Mate with queen"]
+      }
+    ]
+  },
+  "life_cycle": {
+    "stages": [
+      {
+        "stage": "Egg",
+        "duration": "3 days",
+        "description": "White, elongated eggs laid in brood cells"
+      },
+      {
+        "stage": "Larva",
+        "duration": {
+          "queen": "5.5 days",
+          "worker": "6 days",
+          "drone": "6.5 days"
+        },
+        "description": "Fed royal jelly or bee bread, molts 5 times"
+      },
+      {
+        "stage": "Pupa",
+        "duration": {
+          "queen": "7.5 days",
+          "worker": "12 days",
+          "drone": "14.5 days"
+        },
+        "description": "Metamorphosis occurs, no movement"
+      },
+      {
+        "stage": "Adult",
+        "description": "Emerges from cell ready to perform role"
+      }
+    ],
+    "metamorphosis": "Complete (holometabolism)",
+    "reproduction": {
+      "nuptial_flight": "Queen mates with multiple drones mid-air",
+      "sperm_storage": "Spermatheca stores sperm for queen's lifetime"
+    }
+  },
+  "beehive": {
+    "structure": "Hexagonal wax cells for brood and honey storage",
+    "types": ["Natural (in trees)", "Artificial (for apiculture)"],
+    "organization": "Highly structured with division of labor"
+  },
+  "bee_products": [
+    {
+      "product": "Honey",
+      "composition": ["80% carbohydrates", "20% water", "Vitamins", "Minerals"],
+      "production": "From flower nectar concentrated by evaporation",
+      "uses": ["Food", "Medicine", "Ayurveda"]
+    },
+    {
+      "product": "Beeswax",
+      "production": "From wax glands of worker bees",
+      "uses": ["Cosmetics", "Candles", "Polish"]
+    },
+    {
+      "product": "Royal jelly",
+      "production": "From glands of worker bees",
+      "uses": ["Queen development", "Health supplements"]
+    },
+    {
+      "product": "Propolis",
+      "description": "Resinous mixture used as hive sealant",
+      "uses": ["Antimicrobial", "Medicine"]
+    }
+  ],
+  "importance": {
+    "ecological": [
+      "Primary pollinators for many plants",
+      "Essential for biodiversity"
+    ],
+    "agricultural": [
+      "Increases crop yields",
+      "Improves fruit/seed production"
+    ],
+    "economic": [
+      "Honey production",
+      "Wax products",
+      "Pollination services"
+    ],
+    "social": [
+      "Model for organization/teamwork",
+      "Example of division of labor"
+    ]
+  },
+  "apiculture": {
+    "definition": "Commercial rearing of honey bees",
+    "methods": ["Traditional", "Modern hive systems"],
+    "requirements": ["Pasture land", "Water source", "Protection"],
+    "benefits": [
+      "Sustainable income",
+      "Improves local agriculture",
+      "Multiple products"
+    ]
+  },
+  "activities": [
+    {
+      "name": "Bee observation",
+      "materials": ["Bee specimens/videos", "Drawing materials"],
+      "steps": [
+        "Observe physical features",
+        "Draw and label parts",
+        "Compare bee types"
+      ]
+    },
+    {
+      "name": "Life cycle study",
+      "materials": ["Life cycle diagrams", "Modeling clay"],
+      "steps": [
+        "Create models of each stage",
+        "Arrange in sequence",
+        "Discuss transformations"
+      ]
+    }
+  ],
+  "review_questions": [
+    {
+      "question": "What are the three types of bees in a hive and their main roles?",
+      "answer": "Queen (reproduction), Workers (all hive tasks), Drones (mating)"
+    },
+    {
+      "question": "How does royal jelly determine bee development?",
+      "answer": "Larvae fed royal jelly become queens; others become workers"
+    },
+    {
+      "question": "Why are honey bees important for agriculture?",
+      "answer": "They pollinate crops, increasing yields and quality"
+    },
+    {
+      "question": "What is parthenogenesis in bees?",
+      "answer": "Development of drones from unfertilized eggs"
+    }
+  ],
+  "interesting_facts": [
+    "Bees communicate through dance (waggle dance)",
+    "A queen can store sperm for her entire life",
+    "Worker bees' roles change with age",
+    "Bees must visit about 2 million flowers to make 1 pound of honey"
+  ]
+}

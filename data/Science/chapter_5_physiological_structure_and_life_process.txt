@@ -1,0 +1,202 @@
+{
+  "title": "Heredity and Circulatory System",
+  "health_conditions": {
+    "high_blood_glucose": {
+      "preventive_measures": [
+        "Consume green vegetables and fruits abundantly",
+        "Regular physical exercise",
+        "Maintain proper weight",
+        "Maintain active lifestyle",
+        "Live stress-free",
+        "Morning walks",
+        "Balanced diet"
+      ]
+    },
+    "hyperuricemia": {
+      "definition": "High uric acid levels in blood caused by purine metabolism",
+      "causes": [
+        "Kidney dysfunction",
+        "Excess purine consumption",
+        "Inadequate water intake"
+      ],
+      "symptoms": [
+        "Joint pain",
+        "Muscle pain",
+        "Kidney stones",
+        "Skin redness/swelling",
+        "Toe joint pain",
+        "Movement difficulty"
+      ],
+      "preventive_measures": [
+        "Regular exercise",
+        "Adequate water intake",
+        "Avoid alcohol/smoking",
+        "Consume baking soda",
+        "Eat cherries (anthocyanin)",
+        "Reduce red meat/seafood",
+        "Limit purine-rich foods"
+      ]
+    }
+  },
+  "circulatory_system": {
+    "components": [
+      {
+        "name": "Heart",
+        "structure": {
+          "chambers": 4,
+          "parts": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+          "valves": ["Tricuspid", "Pulmonary", "Mitral", "Aortic"]
+        },
+        "function": "Pumps blood throughout the body"
+      },
+      {
+        "name": "Blood Vessels",
+        "types": [
+          {
+            "name": "Arteries",
+            "characteristics": ["Thick walls", "No valves", "Deeply seated"],
+            "function": "Carry oxygenated blood away from heart"
+          },
+          {
+            "name": "Veins",
+            "characteristics": ["Thinner walls", "Have valves", "Superficial"],
+            "function": "Carry deoxygenated blood to heart"
+          },
+          {
+            "name": "Capillaries",
+            "characteristics": ["Microscopic", "Thin walls"],
+            "function": "Site of gas/nutrient exchange"
+          }
+        ]
+      },
+      {
+        "name": "Blood",
+        "components": [
+          {
+            "type": "Red Blood Cells (RBCs)",
+            "characteristics": ["Biconcave", "No nucleus", "Contain hemoglobin"],
+            "function": "Oxygen transport",
+            "production": "Bone marrow",
+            "destruction": "Liver and spleen"
+          },
+          {
+            "type": "White Blood Cells (WBCs)",
+            "characteristics": ["Irregular shape", "Have nucleus"],
+            "function": "Immune defense",
+            "production": "Bone marrow",
+            "destruction": "Liver, spleen, lymph nodes"
+          },
+          {
+            "type": "Platelets",
+            "characteristics": ["Small fragments", "No nucleus"],
+            "function": "Blood clotting",
+            "production": "Bone marrow",
+            "destruction": "Spleen"
+          }
+        ]
+      }
+    ],
+    "circulation_types": [
+      {
+        "name": "Pulmonary",
+        "path": "Heart → Lungs → Heart",
+        "function": "Oxygenation of blood"
+      },
+      {
+        "name": "Systemic",
+        "path": "Heart → Body → Heart",
+        "function": "Deliver oxygen/nutrients to tissues"
+      }
+    ],
+    "blood_pressure": {
+      "systolic": {
+        "definition": "Pressure during ventricular contraction",
+        "normal_range": "~120 mmHg"
+      },
+      "diastolic": {
+        "definition": "Pressure during ventricular relaxation",
+        "normal_range": "~80 mmHg"
+      },
+      "measurement": "Sphygmomanometer"
+    }
+  },
+  "blood_disorders": [
+    {
+      "name": "Anemia",
+      "cause": "Low hemoglobin/RBC count",
+      "symptoms": ["Fatigue", "Shortness of breath", "Pale skin"],
+      "treatment": ["Iron-rich diet", "Supplements"]
+    },
+    {
+      "name": "Hemophilia",
+      "cause": "Deficiency in clotting factors",
+      "symptoms": ["Prolonged bleeding"],
+      "treatment": ["Clotting factor replacement"]
+    },
+    {
+      "name": "Hyperuricemia",
+      "cause": "High uric acid levels",
+      "symptoms": ["Joint pain", "Kidney stones"],
+      "treatment": ["Diet modification", "Medication"]
+    }
+  ],
+  "medical_procedures": [
+    {
+      "name": "Angiogram",
+      "purpose": "Detect blocked coronary arteries",
+      "method": "X-ray with contrast dye"
+    },
+    {
+      "name": "ECG",
+      "purpose": "Record heart's electrical activity",
+      "uses": ["Detect arrhythmias", "Heart attack diagnosis"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Hospital Visit Report",
+      "topics": ["High BP", "Diabetes", "Uric acid"],
+      "requirements": ["Interview doctors", "Prepare report", "Class discussion"]
+    },
+    {
+      "title": "Family Health Survey",
+      "topics": ["Health conditions", "Preventive measures"],
+      "requirements": ["Interview family", "Identify patterns", "Class presentation"]
+    }
+  ],
+  "assessment": {
+    "multiple_choice": [
+      {
+        "question": "Which sets of organs belong to the circulatory system?",
+        "options": [
+          "heart, blood, and lung",
+          "heart, blood, and blood vessel",
+          "heart, liver, and lung",
+          "heart, blood vessel, and liver"
+        ],
+        "answer": 1
+      }
+    ],
+    "differentiation": [
+      {
+        "pair": "Red blood cell and White blood cell",
+        "differences": [
+          "RBC: No nucleus, carries oxygen",
+          "WBC: Has nucleus, fights infection"
+        ]
+      }
+    ],
+    "reasoning": [
+      {
+        "question": "Why are arteries deeply seated but veins superficial?",
+        "answer": "Arteries carry high-pressure blood needing protection, veins carry low-pressure blood needing accessibility"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Human Heart Structure",
+        "components": ["Atria", "Ventricles", "Valves", "Major vessels"]
+      }
+    ]
+  }
+}

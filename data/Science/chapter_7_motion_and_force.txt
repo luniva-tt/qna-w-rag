@@ -1,0 +1,179 @@
+{
+  "title": "Motion and Force - Gravitation",
+  "gravitation": {
+    "newtons_law": {
+      "definition": "Universal Law of Gravitation states that every object in the universe attracts every other object with a force proportional to the product of their masses and inversely proportional to the square of the distance between them",
+      "formula": "F = G(m₁m₂)/d²",
+      "variables": {
+        "F": "Gravitational force (N)",
+        "G": "Universal gravitational constant (6.67×10⁻¹¹ Nm²/kg²)",
+        "m₁, m₂": "Masses of objects (kg)",
+        "d": "Distance between centers (m)"
+      },
+      "demonstration": {
+        "activity": "PhET simulation showing force changes with mass/distance",
+        "conclusions": [
+          "Force ∝ product of masses (F∝m₁m₂)",
+          "Force ∝ 1/distance² (F∝1/d²)"
+        ]
+      }
+    },
+    "examples": [
+      {
+        "description": "Earth and 1kg iron sphere",
+        "calculation": {
+          "m₁": "5.97×10²⁴ kg (Earth)",
+          "m₂": "1 kg",
+          "d": "6.37×10⁶ m (Earth's radius)",
+          "result": "9.81 N"
+        }
+      },
+      {
+        "description": "Earth-Moon gravitational force",
+        "calculation": {
+          "m₁": "5.97×10²⁴ kg",
+          "m₂": "7.35×10²² kg",
+          "d": "3.84×10⁸ m",
+          "result": "1.98×10²⁰ N"
+        }
+      }
+    ],
+    "consequences": [
+      "Maintains planetary orbits",
+      "Causes tides",
+      "Gives objects weight",
+      "Enables atmosphere retention"
+    ]
+  },
+  "gravity": {
+    "definition": "Force exerted by planetary bodies on nearby objects",
+    "effects": [
+      "Gives objects weight",
+      "Causes free fall acceleration",
+      "Creates atmospheric pressure",
+      "Enables liquid flow"
+    ],
+    "acceleration": {
+      "definition": "Acceleration due to gravity (g) - rate of velocity change in free fall",
+      "calculation": "g = GM/R²",
+      "earth_value": "9.81 m/s² (varies by location)",
+      "variations": {
+        "altitude": "Decreases with height (gₕ = gR²/(R+h)²)",
+        "latitude": "9.78 m/s² (equator) to 9.83 m/s² (poles)",
+        "celestial_bodies": {
+          "moon": "1.62 m/s² (≈1/6 Earth)",
+          "mars": "3.71 m/s²",
+          "jupiter": "24.79 m/s² (2.5× Earth)"
+        }
+      },
+      "demonstrations": [
+        {
+          "name": "Feather-coin experiment",
+          "conclusion": "All objects fall with same acceleration in vacuum"
+        },
+        {
+          "name": "Free fall observation",
+          "conclusion": "Weight becomes zero during free fall (weightlessness)"
+        }
+      ]
+    }
+  },
+  "mass_vs_weight": {
+    "comparison": {
+      "mass": {
+        "definition": "Quantity of matter (scalar)",
+        "unit": "kg",
+        "characteristic": "Constant everywhere"
+      },
+      "weight": {
+        "definition": "Force of gravity on object (vector)",
+        "unit": "N",
+        "characteristic": "Varies with location",
+        "formula": "W = mg"
+      }
+    },
+    "examples": [
+      {
+        "scenario": "100kg mass on Earth vs Moon",
+        "earth_weight": "981 N",
+        "moon_weight": "162 N"
+      },
+      {
+        "scenario": "Object at Everest summit vs sea level",
+        "difference": "0.03% decrease"
+      }
+    ]
+  },
+  "free_fall": {
+    "definition": "Motion under gravity alone without resistance",
+    "characteristics": [
+      "Acceleration = g",
+      "Weightlessness condition",
+      "Equations of motion apply"
+    ],
+    "equations": {
+      "velocity": "v = u + gt",
+      "displacement": "h = ut + ½gt²",
+      "relation": "v² = u² + 2gh"
+    },
+    "examples": [
+      {
+        "problem": "Stone dropped from bridge",
+        "given": "t = 2s, u = 0",
+        "solution": "h = 19.6m"
+      },
+      {
+        "problem": "Ball thrown upward",
+        "given": "h = 30m",
+        "solution": "u = 24.25m/s, t = 2.47s"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Parachute model",
+        "conclusion": "Terminal velocity reached due to air resistance"
+      },
+      {
+        "name": "Free fall measurements",
+        "method": "Timed drops from various heights"
+      }
+    ]
+  },
+  "applications": {
+    "space_technology": {
+      "international_space_station": {
+        "altitude": "400km",
+        "g_value": "8.66 m/s²"
+      },
+      "planetary_missions": "Gravity assists used for propulsion"
+    },
+    "everyday_life": [
+      "Tides prediction",
+      "Building design",
+      "Sports equipment"
+    ]
+  },
+  "assessment": {
+    "multiple_choice": [
+      {
+        "question": "Relationship between gravitational force and distance",
+        "options": ["F∝d", "F∝1/d", "F∝1/d²", "F∝d²"],
+        "answer": 2
+      }
+    ],
+    "calculations": [
+      {
+        "type": "Gravitational force",
+        "template": "Given m₁=__kg, m₂=__kg, d=__m → F=__N"
+      },
+      {
+        "type": "Free fall",
+        "template": "Given t=__s, find height (h=½gt²)"
+      }
+    ],
+    "conceptual": [
+      "Explain why astronauts float in ISS",
+      "Compare g-values across solar system"
+    ]
+  }
+}
