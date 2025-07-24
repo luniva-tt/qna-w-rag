@@ -27,5 +27,5 @@ Thumbs.db
 *.dll
 
 # Ignore dataset or large files if needed
-data/
+!data/
 
